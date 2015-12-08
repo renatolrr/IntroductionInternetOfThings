@@ -1,6 +1,7 @@
 # Introduction Internet Of Things
   
-Design, create, and deploy a fun IoT device using Arduino and Raspberry Pi platforms. Universidad de California en Irvine  
+Design, create, and deploy a fun IoT device using Arduino and Raspberry Pi platforms.  
+Universidad de California en Irvine   
   
   Introducción al Internet de las Cosas y a los Sistemas Integrados   
   Plataforma Arduino y Programación en C  
